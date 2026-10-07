@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-#═══════════════════════════════════════════════════════════
-#  🚀  PROHACK LAUNCHER
-#═══════════════════════════════════════════════════════════
 import os
 import sys
 
@@ -13,8 +10,7 @@ REQUIRED_PY = "3.14"
 current_py  = f"{sys.version_info.major}.{sys.version_info.minor}"
 
 if current_py != REQUIRED_PY:
-    print("\033[91m  ✘ Python version mismatch!")
-    print(f"  Required: {REQUIRED_PY}, Yours: {current_py}\033[0m")
+    print(f"\033[91m✘ Python version mismatch! Required: {REQUIRED_PY}, Yours: {current_py}\033[0m")
     sys.exit(1)
 
 suffix = f"cpython-{REQUIRED_PY.replace('.', '')}-aarch64-linux-android"
