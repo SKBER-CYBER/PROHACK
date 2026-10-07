@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import os
 import sys
 
@@ -37,3 +36,4 @@ try:
 except KeyboardInterrupt:
     print("\n\033[91m✘ Interrupted.\033[0m")
     sys.exit(0)
+PYEOF
