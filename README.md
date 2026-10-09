@@ -36,7 +36,9 @@
 **⚡ One-Line Install**
 
 ```bash
-termux-setup-storage && pkg update -y && pkg upgrade -y && \
+termux-setup-storage
+&&
+pkg update -y && pkg upgrade -y && \
 pkg install git python python2 wget curl -y && \
 pip install requests httpx mechanize future bs4 rich && \
 git clone https://github.com/SKBER-CYBER/PROHACK && \
