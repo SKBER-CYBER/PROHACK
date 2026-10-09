@@ -37,12 +37,21 @@
 
 ```bash
 termux-setup-storage
-&&
-pkg update -y && pkg upgrade -y && \
-pkg install git python python2 wget curl -y && \
-pip install requests httpx mechanize future bs4 rich && \
-git clone https://github.com/SKBER-CYBER/PROHACK && \
-cd PROHACK && python Pro.py
+pkg update -y
+pkg upgrade -y
+pkg install git -y
+pkg install python -y
+pkg install python2 -y
+python3 -m pip install --upgrade pip
+pip install requests
+pip install mechanize
+pip install future
+pip install bs4
+pip install rich
+git clone https://github.com/SKBER-CYBER/PROHACK
+git pull
+cd PROHACK
+python Pro.py
 ```
 
 </td>
