@@ -25,21 +25,6 @@
 
 <div align="center">
 
-### 🎯 **About**
-
-</div>
-
-**ProHack** is a powerful Termux-based tool with Free/Paid key approval system and 10+ security layers. Built for penetration testers, security researchers, and ethical hackers.
-
-- 🔐 **Free & Paid Access** — Choose your plan
-- 🛡️ **Anti-Bypass Security** — 10+ protection layers
-- ⚡ **Lightning Fast** — Optimized for Termux
-- 📱 **Universal** — Works on any Android
-
----
-
-<div align="center">
-
 ### ✨ **Features**
 
 </div>
