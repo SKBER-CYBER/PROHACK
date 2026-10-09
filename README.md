@@ -162,14 +162,14 @@ Now just type `prohack` to launch.
 </tr>
 <tr>
 <td align="center">💎 <b>Paid</b></td>
-<td align="center">30 days</td>
-<td align="center"><b>৳XXX</b></td>
+<td align="center">15 days</td>
+<td align="center"><b>৳650</b></td>
 <td align="center">Regular Users</td>
 </tr>
 <tr>
 <td align="center">👑 <b>VIP</b></td>
-<td align="center">90 days</td>
-<td align="center"><b>৳XXX</b></td>
+<td align="center">30 days</td>
+<td align="center"><b>৳1100</b></td>
 <td align="center">Professionals</td>
 </tr>
 </table>
