@@ -230,3 +230,9 @@ If you find ProHack useful, please consider:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=150&section=footer"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://github.com/SKBER-CYBER/PROHACK/blob/main/InCollage_20261010_022158941.jpg?raw=true" width="600">
+
+</div>
