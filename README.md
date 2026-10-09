@@ -25,25 +25,6 @@
 
 <div align="center">
 
-### ✨ **Features**
-
-</div>
-
-| 🎁 Feature | 🆓 Free | 💎 Paid |
-|:-----------|:------:|:------:|
-| File Cloning | ❌ | ✅ |
-| Public Cloning | ❌ | ✅ |
-| Number Cloning | ✅ | ✅ |
-| Basic Scan | ✅ | ✅ |
-| Auto Update | ✅ | ✅ |
-| WhatsApp Support | ✅ | ✅ |
-| Priority Support | ❌ | ✅ |
-| Early Access | ❌ | ✅ |
-
----
-
-<div align="center">
-
 ### 📦 **Installation**
 
 </div>
