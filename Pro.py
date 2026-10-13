@@ -1,12 +1,8 @@
 import os, sys, time, importlib.util
-
-# লোড করার আগের কোড...
 spec = importlib.util.spec_from_file_location("v1", "v1.so")
 v1 = importlib.util.module_from_spec(spec)
 sys.modules["v1"] = v1
 spec.loader.exec_module(v1)
-
-# মূল স্ক্রিপ্টের ফাংশনগুলো কল করুন
 try:
     v1.check_maintenance()
     v1.check_update()
