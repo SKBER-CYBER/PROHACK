@@ -1,1 +1,2 @@
-print("tool now updating")
+import v1
+v1.main()
